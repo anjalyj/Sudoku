@@ -1,0 +1,22 @@
+TODO
+============================================================================================
+Sudoku
+	It is a simple puzzle game that needs concentration and focus to complete the set of 9 3X3 blocks with suitable numbers from 1-9.
+	The numbers should not repeat in either a row, a column or a block.
+	Neither of the boxes should be empty.
+============================================================================================
+Steps
+	Javascript
+		Random puzzle box generation.
+		Prevention of editing of the generated pattern/numbers.
+		Locking of entered numbers in the range of 1-9.
+		Entering numbers in empty boxes.
+		Editing of entered numbers.
+		Colour indication of safe and unsafe entry.
+		Submiting name and count of score.
+
+
+	Presentation
+		Html
+		Node
+=============================================================================================
